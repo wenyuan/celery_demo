@@ -1,11 +1,11 @@
-# celery 使用案例
+# Celery 使用案例
 
 ## 环境
 
 > 本项目需要在 Linux 服务器上运行。
 
 * Python 3.8.9
-* celery 5.2.7
+* Celery 5.2.7
 * Redis 7
 
 ## 前置准备
